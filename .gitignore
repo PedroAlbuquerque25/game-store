@@ -1,0 +1,21 @@
+# OS X Metadata
+.DS_Store
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+bin/
+lib/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local settings
+.vscode/
